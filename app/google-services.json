@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "1065970072777",
+    "firebase_url": "https://projeto-tech-229ed.firebaseio.com",
+    "project_id": "projeto-tech-229ed",
+    "storage_bucket": "projeto-tech-229ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065970072777:android:f58991552b778cd87fa118",
+        "android_client_info": {
+          "package_name": "com.edu.prc_ifsp.labelit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065970072777-6kgdjd2q8rk8ntmibhrtg7nu6pkrqoj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edu.prc_ifsp.labelit",
+            "certificate_hash": "907b0c14c137737cee17889958c2d7a71ab77074"
+          }
+        },
+        {
+          "client_id": "1065970072777-c1j9m6hhkj55g78vk13gnsfcveqphjn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1mv8qfgxX17n2p4jlZUbx-IrotZhNeNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065970072777-c1j9m6hhkj55g78vk13gnsfcveqphjn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065970072777:android:ac3e876b015edc0b",
+        "android_client_info": {
+          "package_name": "com.example.aluno.projetotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065970072777-kd5fckecpr9edqe0ko8bsddq4o4o9kkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aluno.projetotech",
+            "certificate_hash": "0920ad1ca3140aec6d3913eb83c6cf903645d040"
+          }
+        },
+        {
+          "client_id": "1065970072777-iu4fi22goam4uin40lck98ind4k9v3sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aluno.projetotech",
+            "certificate_hash": "5466ed0cf4bf6878749f1b10cef01218c44d2649"
+          }
+        },
+        {
+          "client_id": "1065970072777-1dsnukp0pngejpeaqr3ra0gsb7ir2s9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aluno.projetotech",
+            "certificate_hash": "12228ee496e6de424b803c26f7e8f969b6237067"
+          }
+        },
+        {
+          "client_id": "1065970072777-and0ipa8qusdbtn8cq7cafjk7cl30fa6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aluno.projetotech",
+            "certificate_hash": "907b0c14c137737cee17889958c2d7a71ab77074"
+          }
+        },
+        {
+          "client_id": "1065970072777-c1j9m6hhkj55g78vk13gnsfcveqphjn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1mv8qfgxX17n2p4jlZUbx-IrotZhNeNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065970072777-c1j9m6hhkj55g78vk13gnsfcveqphjn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
